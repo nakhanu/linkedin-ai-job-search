@@ -1,0 +1,15 @@
+Junior Electrical Engineer
+
+We are looking for a Junior Electrical Engineer with experience in
+electrical systems, maintenance, PLC programming, automation,
+AutoCAD, and Excel.
+
+Requirements:
+- Electrical engineering knowledge
+- Electrical maintenance
+- PLC programming
+- Automation
+- AutoCAD
+- Excel
+- Python
+- Power BI

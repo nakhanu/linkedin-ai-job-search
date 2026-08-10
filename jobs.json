@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Junior Electrical Engineer",
+        "company": "ABC Engineering Ltd",
+        "location": "Nairobi",
+        "skills": ["electrical", "maintenance", "plc", "autocad", "excel"]
+    },
+    {
+        "title": "Junior Automation Engineer",
+        "company": "Tech Automation Ltd",
+        "location": "Nairobi",
+        "skills": ["automation", "plc", "python", "electrical"]
+    },
+    {
+        "title": "Electrical Maintenance Engineer",
+        "company": "Industrial Solutions Ltd",
+        "location": "Nairobi",
+        "skills": ["electrical", "maintenance", "excel"]
+    }
+]
